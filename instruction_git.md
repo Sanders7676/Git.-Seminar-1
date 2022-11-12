@@ -14,3 +14,6 @@
     git init
 
 ## **Добавление в индекс**
+
+    git add <filename.ext>
+    
